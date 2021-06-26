@@ -1,1 +1,1 @@
-<img src="https://discordapp.com/assets/0e291f67c9274a1abdddeb3fd919cbaa.png" height="420"/>
+<img src="https://cdn.discordapp.com/attachments/820417025603797033/820417391347236884/leme.gif" height="420"/>
